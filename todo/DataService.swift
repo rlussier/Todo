@@ -1,5 +1,5 @@
 class DataService {
-    static var todo: [Todo] = [
+    static var todos: [Todo] = [
         Todo(title: "hello")
     ]
     
